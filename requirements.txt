@@ -1,13 +1,13 @@
-streamlit
+streamlit==1.49.1
 
-numpy
+numpy==1.26.4
 
-pandas
+pandas==2.2.3
 
-Pillow
+Pillow==11.3.0
 
-tensorflow
+tensorflow==2.15.1
 
-joblib
+joblib==1.5.2
 
-scikit-learn
+scikit-learn==1.7.2
